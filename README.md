@@ -22,6 +22,6 @@ Es una aplicacion (en local o en linea) que permite editar un texto, una hoja de
 | Google Docs | ![Tick](https://github.com/XaviiConde/SMX2-M8UF1A2/blob/main/correcto.png "Tick") |
 | Google Slides | ![Tick](https://github.com/XaviiConde/SMX2-M8UF1A2/blob/main/correcto.png "Tick") |
 | Google Sheets | ![Tick](https://github.com/XaviiConde/SMX2-M8UF1A2/blob/main/correcto.png "Tick") |
-| Google Calendar |  |
-| Google Meet |  |
+| Google Calendar | ![Calendar](https://github.com/XaviiConde/SMX2-M8UF1A2/blob/main/imagen_2022-09-16_173935653.png "Calendar") |
+| Google Meet | ![Meet](https://github.com/XaviiConde/SMX2-M8UF1A2/blob/main/imagen_2022-09-16_173935653.png "Meet") |
 | ... | ... |
