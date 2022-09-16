@@ -19,7 +19,7 @@ Es una aplicacion (en local o en linea) que permite editar un texto, una hoja de
 
 | Aplicaciones | Visto |
 |--------|:-----------|
-| Google Docs | ![Tick](https://github.com/XaviiConde/SMX2-M8UF1A2/blob/main/correcto.png"Tick") |
+| Google Docs | ![Tick](https://github.com/XaviiConde/SMX2-M8UF1A2/blob/main/correcto.png "Tick") |
 | Google Slides | ![Correcto](afvxq-9jvh7.webp "Imagen Correcto") |
 | Google Sheets | ![Correcto](afvxq-9jvh7.webp "Imagen Correcto") |
 | Google Calendar |  |
