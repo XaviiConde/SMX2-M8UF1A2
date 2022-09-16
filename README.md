@@ -25,3 +25,20 @@ Es una aplicacion (en local o en linea) que permite editar un texto, una hoja de
 | Google Calendar | ![Calendar](https://github.com/XaviiConde/SMX2-M8UF1A2/blob/main/imagen_2022-09-16_173935653.png "Calendar") |
 | Google Meet | ![Meet](https://github.com/XaviiConde/SMX2-M8UF1A2/blob/main/imagen_2022-09-16_174118607.png "Meet") |
 | ... | ... |
+
+6. ¿Qué es HTML ?
+
+Es un lenguaje de marcas. Es el lenguaje estandard para crear sitios web.
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Document</title>
+</head>
+<body>
+</body>
+</html>
