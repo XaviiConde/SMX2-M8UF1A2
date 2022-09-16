@@ -50,4 +50,4 @@ elementos HTML deberían ser mostrados.
 
 8. Flujo de trabajo (navegador, petición, servidor y respuesta):
 
-![Flujo](https://github.com/XaviiConde/SMX2-M8UF1A2/blob/main/imagen_2022-09-16_173935653.png "Calendar")
+![Flujo](https://github.com/XaviiConde/SMX2-M8UF1A2/blob/main/imagen_2022-09-16_174555465.png "Flujo")
