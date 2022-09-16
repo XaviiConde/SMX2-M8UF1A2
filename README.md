@@ -42,6 +42,7 @@ Es un lenguaje de marcas. Es el lenguaje estandard para crear sitios web.
 <body>
 </body>
 </html>
+````
 
 7. ¿Qué es CSS ?
 
