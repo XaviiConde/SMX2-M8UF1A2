@@ -16,4 +16,11 @@ Es una colección de páginas web, imágenes, vídeos y otros elementos digitale
 Es una aplicacion (en local o en linea) que permite editar un texto, una hoja de cálculo, una presentación
 
 5. [Herramientas de Google:](https://www.google.com/intl/es-419/chrome/browser-tools/ "Herrmientas de Google")
-6. 
+
+| Aplicaciones | Visto |
+|--------|:-----------|
+| Google Docs | Apellido |
+| Google Slides | Apellido 3 |
+| Google Sheets | está alineada|
+| Google Calendar | está alineada |
+| ... | ... |
