@@ -19,8 +19,8 @@ Es una aplicacion (en local o en linea) que permite editar un texto, una hoja de
 
 | Aplicaciones | Visto |
 |--------|:-----------|
-| Google Docs | Apellido |
-| Google Slides | Apellido 3 |
-| Google Sheets | está alineada|
-| Google Calendar | está alineada |
+| Google Docs | ![Correcto](afvxq-9jvh7.webp "Imagen Correcto") |
+| Google Slides | ![Correcto](afvxq-9jvh7.webp "Imagen Correcto") |
+| Google Sheets | ![Correcto](afvxq-9jvh7.webp "Imagen Correcto") |
+| Google Calendar |  |
 | ... | ... |
